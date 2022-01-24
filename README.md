@@ -6,7 +6,7 @@ Soy una persona respetuosa y confiable, Buscando siempre superarme para brindar 
 Amplia experiencia al haber trabajado en mi proyecto personal <strong>www.buhodemica.com</strong> una plataforma web con gran complejidad, ademas de haber elaborado otras paginas web y diseños a terceros.
 <br><br>
 <strong>Conoce un poco acerca de mis habilidades:</strong>
-<br>
+<br><br>
 <ul>
   <li><strong>Frontend: </strong>HTML, CSS, SASS, Bootstrap.</li>
   <li><strong>Backend: </strong>Php y SQL.</li>
