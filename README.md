@@ -3,7 +3,7 @@
 <br>
 Soy una persona respetuosa y confiable, Buscando siempre superarme para brindar las mejores soluciones tecnológicas, Comprometido con las metas propiciando el liderazgo para un mejor avance de los proyectos establecidos.
 <br><br>
-Amplia experiencia al haber trabajado en mi proyecto personal www.buhodemica.com una plataforma web con gran complejidad, ademas de haber elaborado otras paginas web y diseños a terceros.
+Amplia experiencia al haber trabajado en mi proyecto personal <strong>www.buhodemica.com</strong> una plataforma web con gran complejidad, ademas de haber elaborado otras paginas web y diseños a terceros.
 <br><br>
 <strong>Conoce un poco acerca de mis habilidades</strong>
 <ul>
@@ -15,6 +15,6 @@ Amplia experiencia al haber trabajado en mi proyecto personal www.buhodemica.com
   <li><strong>Habilidades técnicas: </strong>Mantenimiento preventivo de pc's y Analisis de Hardware.</li>
 </ul>
 <br>
-Conoce mas de mi a travez de mi portafolio: <a href="https://bigjack2.github.io/portafolio_vanegas.github.io/">Portafolio Jhon Vanegas</a>.
+Conoce mas de mi a travez de mi portafolio: <a href="https://bigjack2.github.io/portafolio_vanegas.github.io/"><strong>Portafolio Jhon Vanegas</strong></a>.
 
-Conoce mi <a href="https://bigjack2.github.io/guia-del-desarrollador/">Guia del Desarrollador</a>.
+Conoce mi <a href="https://bigjack2.github.io/guia-del-desarrollador/"><strong>Guia del Desarrollador</strong></a>.
