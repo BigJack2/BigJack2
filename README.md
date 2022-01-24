@@ -11,7 +11,7 @@ Amplia experiencia al haber trabajado en mi proyecto personal <strong>www.buhode
   <li><strong>Backend: </strong>Php y SQL.</li>
   <li><strong>Herramientas de diseño: </strong>Corel y Photoshop.</li>
   <li><strong>Herramientas de desarrollo: </strong>Git y Github.</li>
-  <li><strong>Habilidades laborales: </strong>Administracion T.I., Soporte Webmaster y Manejo de personal.</li>
+  <li><strong>Habilidades laborales: </strong>Administracion T.I., Soporte Webmaster, Manejo de personal y trabajo en equipo.</li>
   <li><strong>Habilidades técnicas: </strong>Mantenimiento preventivo de pc's y Analisis de Hardware.</li>
 </ul>
 <br>
