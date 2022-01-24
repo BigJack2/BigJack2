@@ -1,5 +1,5 @@
 <h1>Sebastian Vanegas</h1>
-<h2>Desarrollador Fronten/Backend, Diseñador web & Analista.</h2>
+<h2>Desarrollador Frontend/Backend, Diseñador web & Analista.</h2>
 <br>
 Soy una persona respetuosa y confiable, Buscando siempre superarme para brindar las mejores soluciones tecnológicas, Comprometido con las metas propiciando el liderazgo para un mejor avance de los proyectos establecidos.
 <br><br>
