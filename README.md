@@ -7,10 +7,12 @@ Amplia experiencia al haber trabajado en mi proyecto personal www.buhodemica.com
 <br><br>
 <strong>Conoce un poco acerca de mis habilidades</strong>
 <ul>
-  <li><strong>Frontend: </strong>HTML, CSS, SASS, Bootstrap</li>
-  <li><strong>Backend: </strong></li>
-  <li><strong>Herramientas de diseño: </strong>Corel y Photoshop</li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
+  <li><strong>Frontend: </strong>HTML, CSS, SASS, Bootstrap.</li>
+  <li><strong>Backend: </strong>Php y SQL.</li>
+  <li><strong>Herramientas de diseño: </strong>Corel y Photoshop.</li>
+  <li><strong>Herramientas de desarrollo: </strong>Git y Github.</li>
+  <li><strong>Habilidades laborales: </strong>Administracion T.I., Soporte Webmaster y Manejo de personal.</li>
+  <li><strong>Habilidades técnicas: </strong>Mantenimiento preventivo de pc's y Analisis de Hardware.</li>
 </ul>
+<br><br>
+Conoce mas de mi a travez de mi portafolio: <a href="https://bigjack2.github.io/portafolio_vanegas.github.io/">Portafolio Jhon Vanegas</a>
