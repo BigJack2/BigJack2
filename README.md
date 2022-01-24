@@ -14,5 +14,7 @@ Amplia experiencia al haber trabajado en mi proyecto personal www.buhodemica.com
   <li><strong>Habilidades laborales: </strong>Administracion T.I., Soporte Webmaster y Manejo de personal.</li>
   <li><strong>Habilidades técnicas: </strong>Mantenimiento preventivo de pc's y Analisis de Hardware.</li>
 </ul>
-<br><br>
-Conoce mas de mi a travez de mi portafolio: <a href="https://bigjack2.github.io/portafolio_vanegas.github.io/">Portafolio Jhon Vanegas</a>
+<br>
+Conoce mas de mi a travez de mi portafolio: <a href="https://bigjack2.github.io/portafolio_vanegas.github.io/">Portafolio Jhon Vanegas</a>.
+
+Conoce mi <a href="https://bigjack2.github.io/guia-del-desarrollador/">Guia del Desarrollador</a>.
