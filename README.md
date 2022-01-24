@@ -3,7 +3,7 @@
 <br>
 Soy una persona respetuosa y confiable, Buscando siempre superarme para brindar las mejores soluciones tecnológicas, Comprometido con las metas propiciando el liderazgo para un mejor avance de los proyectos establecidos.
 <br><br>
-Amplia experiencia al haber trabajado en mi proyecto personal <strong>www.buhodemica.com</strong> una plataforma web con gran complejidad, ademas de haber elaborado otras paginas web y diseños a terceros.
+Amplia experiencia al haber trabajado en mi proyecto personal <a href="https://www.buhodemica.com/"><strong>Buhodemica.com</strong></a> una plataforma web con gran complejidad y amplias herramientas educativas, ademas de haber elaborado otras paginas web y diseños a terceros.
 <br><br>
 <strong>Conoce un poco acerca de mis habilidades:</strong>
 <br><br>
