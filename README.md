@@ -7,7 +7,7 @@ Frontend/Backend Developer, Web Designer and Analyst.
 I am a respectful and reliable person, always seeking to improve myself to provide the best technological solutions, committed to the goals, promoting leadership for a better advancement of the established projects.
 
 * 🌍  I'm based in El Cerrito Valle Del Cauca
-* 🖥️  See my portfolio at [My Portafolio](http://bigjack2.github.io/portafolio_vanegas.github.io/)
+* 🖥️  See my portfolio at [My Portafolio](http://bigjack2.github.io/portafolio_sebastian_vanegas/)
 * ✉️  You can contact me at [jsvanegas2014@gmail.com](mailto:jsvanegas2014@gmail.com)
 * 🚀  I'm currently working on [La Guia del Desarrollador](http://bigjack2.github.io/guia-del-desarrollador/index.html#laravel)
 * 🧠  I'm learning ASP .NET
